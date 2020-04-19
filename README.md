@@ -1,3 +1,5 @@
+Algorithm
+
 1. Creating a class for our div
 
 2. in the constructor, we add some parameters
